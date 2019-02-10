@@ -1,2 +1,2 @@
-# Computer001
-It is about the computers' advantages and disadvantages.
+# 关于电脑的一些事儿
+初步了解电脑的优缺点
